@@ -33,4 +33,4 @@ Criei uma trilha de estudos dentro da área de Data Analytics, a qual venho apre
 
 > Acredito: No poder da internet de oferecer ensino de forma gratuíta ou de fácil acesso.
 
-> Não acredito: Na frase *"isso não é possível de fazer"* .
+> Não acredito: Na frase *"isso não é possível de fazer"* e na frase *"não temos tempo para fazer isso"*
