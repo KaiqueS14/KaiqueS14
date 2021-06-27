@@ -1,6 +1,6 @@
 ## Hey, sou o Kaique Costa!
 
-#### Beleza, mas quem eu sou?🤔
+### Beleza, mas quem eu sou?🤔
 
 Atualmente trabalho como Analista de BI. Me considero fascinado pelo mundo de dados e todas as sua dimensões e possibilidades.
 
