@@ -24,7 +24,7 @@ Criei uma trilha de estudos dentro da área de Data Analytics, a qual venho apre
 
 [![HackerRank Badge](https://img.shields.io/badge/-Kaique%20Costa-0e76a8?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/kaiquegg)](https://www.hackerrank.com/kaiquegg) 
 
-
+kaiquegg@gmail.com
 
 ### Extra Contents
 
