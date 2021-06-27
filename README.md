@@ -1,10 +1,10 @@
-## Hey, sou o Kaique Costa!
+## Hey, Bem-Vindo!
 
-### Beleza, mas quem eu sou?🤔
+### Quem eu sou?🤔
 
 Atualmente trabalho como Analista de BI. Me considero fascinado pelo mundo de dados e todas as sua dimensões e possibilidades.
 
-Dizem que o trabalho ideal é aquele que você não percebe o tempo passar quando está com a mão na massa e aprendendo coisas novas todos os dias! <3
+Dizem que o trabalho ideal é aquele que você não percebe o tempo passar quando está com a mão na massa e aprendendo coisas novas todos os dias! Foi isso o que encontrei dentro da área de dados! <3
 
 ### Ok, e o que eu sei? 🤨💻
 
