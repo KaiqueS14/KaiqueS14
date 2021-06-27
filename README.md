@@ -31,5 +31,5 @@ Criei uma trilha de estudos dentro da área de Data Analytics, a qual venho apre
 - Assíduo por uma cerveja gelada 🍻
 - Louco para conhecer esse mundão ✈🏝🏜🏖🛣⛰
 
-Acredito: No poder da internet de oferecer ensino de forma gratuíta ou de fácil acesso.
-Não acredito: Na frase *"isso não é possível de fazer"* .
+> Acredito: No poder da internet de oferecer ensino de forma gratuíta ou de fácil acesso.
+> Não acredito: Na frase *"isso não é possível de fazer"* .
