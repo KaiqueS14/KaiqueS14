@@ -17,7 +17,7 @@ Tentarei detalhar melhor cada item através de repositórios aqui no Git!
 
 ### E o que estou fazendo no momento? 👀
 
-Criei uma trilha de estudos dentro da área de Data Analytics, a qual venho aprendendo todos os dias definições novas da área e todas as suas vertentes, principalmente utilizando Python. Meu objetivo é obter continuamente novos conhecimentos e aperfeiçoar minhas habilidades dentro da área, dominando os principais conceitos e tecnicas para, então, pensar em qual será a próxima curva (Data Science, Data Engineer, etc). 
+Criei uma trilha de estudos dentro da área de Data Analytics, a qual venho aprendendo todos os dias definições novas da área e todas as suas vertentes, principalmente utilizando Python. Meu objetivo é dominar a exploração de dados e automatização/performance de processo.
 
 ### Onde me achar? 🌎
 [![Linkedin Badge](https://img.shields.io/badge/-Kaique%20Costa-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiquegcosta/)](https://www.linkedin.com/in/kaiquegcosta/) 
